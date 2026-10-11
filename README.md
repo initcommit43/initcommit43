@@ -6,6 +6,14 @@
 
 </div>
 
+<p align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  </picture>
+</p>
+
 # 📊 GitHub Stats:
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
@@ -13,12 +21,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages">
-</p>
-
-<p align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/initcommit43/initcommit43/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  </picture>
 </p>
