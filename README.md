@@ -15,6 +15,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="450" src="https://github-readme-stats.shion.dev/api?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
-  <img width="450" src="https://github-readme-stats.shion.dev/api/top-langs/?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450" alt="Top languages">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&line_height=20" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=initcommit43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450" alt="Top languages">
 </p>
